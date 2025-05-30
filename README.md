@@ -65,5 +65,8 @@ https://github.com/NakkaVaishnavi/Churn_Prediction/blob/main/ModelTraining.ipynb
 
 
 
+
+
+
 ![image](https://github.com/user-attachments/assets/5e1eab14-dd65-4876-a278-3c9fa981a4d1)
 ![image](https://github.com/user-attachments/assets/49a5c94d-f618-403d-96d1-828e2f16e9ce)
