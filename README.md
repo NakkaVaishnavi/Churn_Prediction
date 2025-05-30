@@ -1,6 +1,7 @@
 # Churn_Prediction
-Steps to Integrate SQL Server with Power BI for Churn Prediction Visualization:
-Install SQL Server Management Studio (SSMS):
+**Steps to Integrate SQL Server with Power BI for Churn Prediction Visualization:**
+
+Install SQL Server Management Studio (SSMS)
 
 Download and install SSMS to manage and query SQL Server databases.
 Install SQL Server:
