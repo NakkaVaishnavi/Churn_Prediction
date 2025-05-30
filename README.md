@@ -62,8 +62,7 @@ https://github.com/NakkaVaishnavi/Churn_Prediction/blob/main/ModelTraining.ipynb
 
 
 
-
-
+SUMMARY AND PREDICTION DASHBOARDS (OPTIONAL) :
 
 
 
